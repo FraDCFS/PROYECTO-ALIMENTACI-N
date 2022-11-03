@@ -665,7 +665,14 @@ h2 {
     margin-left: 10px;
 }
 
-
+*----deporte----*/
+ 
+.center {   display: flex;
+    justify-content:center ;
+    height:26.5em;    
+    margin:auto;
+  
+}
 /* ----------------------------------*/
 
 @media (min-width:320px) and (max-width:760) {
